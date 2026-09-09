@@ -1,0 +1,301 @@
+id,name,preferred_language,card_status,account_type,conversation_history
+C101,Rohan Sharma,Kannada,Active,Current,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C102,Aparna Nair,Punjabi,Active,Savings,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C103,Rekha Sen,Gujarati,Blocked,Fixed Deposit Linked,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C104,Aparna Pandey,Telugu,Active,Salary,Customer previously asked how to change the debit-card PIN. The PIN-change process was explained successfully.
+C105,Vivek Anand,Marathi,Active,Current,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C106,Seema Reddy,Hindi,Active,Salary,Customer previously asked how to activate a newly issued card. Guided the customer through the card activation process successfully.
+C107,Hemalata Chatterjee,English,Blocked,Fixed Deposit Linked,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C108,Sunil Nair,Gujarati,Active,Fixed Deposit Linked,Customer previously asked how to activate a newly issued card. Guided the customer through the card activation process successfully.
+C109,Chitra Chopra,Hindi,Active,Current,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C110,Rahul Sayyed,Telugu,Inactive,NRI,Customer previously asked how to set up UPI with the debit card. Provided step-by-step guidance for linking the card to UPI.
+C111,Farhan Agarwal,Malayalam,Active,Salary,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C112,Mohan Anand,Hindi,Blocked,Current,Customer previously asked why interest was not credited this month. Clarified the interest crediting cycle and confirmed it would reflect shortly.
+C113,Preeti Kapoor,Bengali,Active,Fixed Deposit Linked,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C114,Madhuri Khan,English,Active,Savings,Customer previously asked how to dispute an unauthorized transaction. Logged a dispute request and shared the expected resolution timeline.
+C115,Anusha Das,Hindi,Active,Fixed Deposit Linked,Customer previously asked how to dispute an unauthorized transaction. Logged a dispute request and shared the expected resolution timeline.
+C116,Rekha Bansal,Bengali,Active,NRI,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C117,Lata Menon,Telugu,Blocked,Fixed Deposit Linked,Customer previously asked how to set up UPI with the debit card. Provided step-by-step guidance for linking the card to UPI.
+C118,Mahesh Mishra,Punjabi,Active,Current,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C119,Fatima Kumar,Hindi,Expired,Savings,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C120,Vivek Ansari,Marathi,Active,NRI,Customer previously asked how to check the current account balance via IVR. Explained the IVR steps to check balance using registered mobile number.
+C121,Gopal Dubey,Gujarati,Active,Fixed Deposit Linked,Customer previously asked how to change the debit-card PIN. The PIN-change process was explained successfully.
+C122,Rohan Khanna,Gujarati,Expired,Salary,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C123,Sunita Mishra,Tamil,Active,Salary,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C124,Deepak Yadav,Hindi,Inactive,Salary,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C125,Hemalata Chopra,Tamil,Active,Current,Customer previously asked why interest was not credited this month. Clarified the interest crediting cycle and confirmed it would reflect shortly.
+C126,Kritika Saxena,Punjabi,Active,Savings,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C127,Ramesh Khan,Kannada,Active,Current,Customer previously asked how to reset net banking password. Walked through the password reset process via registered email.
+C128,Rahul Nair,Bengali,Expired,Fixed Deposit Linked,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C129,Sanjay Jain,Bengali,Inactive,Current,Customer previously asked how to set up UPI with the debit card. Provided step-by-step guidance for linking the card to UPI.
+C130,Kritika Kulkarni,Marathi,Pending Activation,Fixed Deposit Linked,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C131,Geeta Joshi,Malayalam,Active,Fixed Deposit Linked,Customer previously asked how to close a savings account. Explained the account closure process and documentation required.
+C132,Nisha Mukherjee,Telugu,Active,Savings,Customer previously asked how to reset net banking password. Walked through the password reset process via registered email.
+C133,Siddharth Sen,Punjabi,Active,Savings,Customer previously asked why a recent transaction was declined. Advised the decline was due to insufficient balance; suggested checking account balance.
+C134,Simran Iyer,English,Inactive,Savings,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C135,Girish Das,Bengali,Active,Current,Customer previously asked how to reset net banking password. Walked through the password reset process via registered email.
+C136,Chitra Singh,Telugu,Expired,NRI,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C137,Amit Reddy,Marathi,Active,NRI,Customer previously asked how to close a savings account. Explained the account closure process and documentation required.
+C138,Vikram Khanna,Hindi,Active,Salary,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C139,Preeti Chopra,Telugu,Active,Current,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C140,Neha Das,Bengali,Active,Savings,Customer previously asked how to close a savings account. Explained the account closure process and documentation required.
+C141,Siddharth Reddy,English,Blocked,Fixed Deposit Linked,Customer previously asked how to change the debit-card PIN. The PIN-change process was explained successfully.
+C142,Pooja Chawla,Telugu,Active,NRI,Customer previously asked how to link Aadhaar with the bank account. Guided the customer through the Aadhaar linking process via net banking.
+C143,Rekha Joshi,English,Active,Savings,Customer previously asked how to check the current account balance via IVR. Explained the IVR steps to check balance using registered mobile number.
+C144,Lata Ansari,Bengali,Active,Fixed Deposit Linked,Customer previously asked how to link Aadhaar with the bank account. Guided the customer through the Aadhaar linking process via net banking.
+C145,Ritu Chopra,Kannada,Active,Savings,Customer previously asked how to reset net banking password. Walked through the password reset process via registered email.
+C146,Aparna Gupta,Malayalam,Active,Fixed Deposit Linked,Customer previously asked how to link Aadhaar with the bank account. Guided the customer through the Aadhaar linking process via net banking.
+C147,Wasim Sayyed,Gujarati,Active,Fixed Deposit Linked,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C148,Neha Iyer,Punjabi,Active,Current,Customer previously asked how to check the current account balance via IVR. Explained the IVR steps to check balance using registered mobile number.
+C149,Nisha Bhatt,Telugu,Active,Savings,Customer previously asked how to update the mailing address. Explained the address update process requiring ID and address proof.
+C150,Rahul Pandey,Punjabi,Active,Salary,Customer previously asked how to set up UPI with the debit card. Provided step-by-step guidance for linking the card to UPI.
+C151,Naveen Jain,Malayalam,Active,NRI,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C152,Rajesh Dubey,Malayalam,Inactive,Savings,Customer previously asked how to change the debit-card PIN. The PIN-change process was explained successfully.
+C153,Farhan Deshpande,Punjabi,Pending Activation,Savings,Customer previously asked why interest was not credited this month. Clarified the interest crediting cycle and confirmed it would reflect shortly.
+C154,Rekha Yadav,Kannada,Active,Salary,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C155,Preeti Desai,Kannada,Active,Fixed Deposit Linked,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C156,Jagdish Sheikh,Gujarati,Active,Fixed Deposit Linked,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C157,Kavya Menon,Kannada,Active,Savings,Customer previously asked why interest was not credited this month. Clarified the interest crediting cycle and confirmed it would reflect shortly.
+C158,Ritu Das,Kannada,Blocked,Salary,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C159,Lata Yadav,Bengali,Active,Savings,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C160,Nikhil Khan,Kannada,Active,Salary,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C161,Lata Kapoor,Bengali,Active,NRI,Customer previously asked why interest was not credited this month. Clarified the interest crediting cycle and confirmed it would reflect shortly.
+C162,Anjali Rao,Hindi,Inactive,Current,Customer previously asked why interest was not credited this month. Clarified the interest crediting cycle and confirmed it would reflect shortly.
+C163,Arjun Khan,Malayalam,Active,Current,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C164,Sanjay Verma,Kannada,Active,Savings,Customer previously asked how to activate a newly issued card. Guided the customer through the card activation process successfully.
+C165,Naveen Khanna,Telugu,Blocked,Salary,Customer previously asked why interest was not credited this month. Clarified the interest crediting cycle and confirmed it would reflect shortly.
+C166,Ganesh Deshpande,Tamil,Inactive,Current,Customer previously asked how to increase the ATM withdrawal limit. Explained the process to request a limit increase via net banking.
+C167,Deepak Pandey,English,Active,Salary,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C168,Preeti Das,Tamil,Expired,Savings,Customer previously asked how to check the current account balance via IVR. Explained the IVR steps to check balance using registered mobile number.
+C169,Arjun Sayyed,Bengali,Active,NRI,Customer previously asked how to activate a newly issued card. Guided the customer through the card activation process successfully.
+C170,Geeta Qureshi,Telugu,Active,Current,Customer previously asked how to check the current account balance via IVR. Explained the IVR steps to check balance using registered mobile number.
+C171,Vinod Das,Hindi,Pending Activation,Salary,Customer previously asked how to activate a newly issued card. Guided the customer through the card activation process successfully.
+C172,Fatima Joshi,Gujarati,Active,Savings,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C173,Lata Malhotra,Punjabi,Pending Activation,Salary,Customer previously asked why a recent transaction was declined. Advised the decline was due to insufficient balance; suggested checking account balance.
+C174,Kavya Kulkarni,Marathi,Active,Salary,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C175,Hemalata Yadav,Hindi,Active,Fixed Deposit Linked,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C176,Harish Verma,Marathi,Active,Fixed Deposit Linked,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C177,Ramesh Mishra,Hindi,Inactive,Salary,Customer previously asked how to update the mailing address. Explained the address update process requiring ID and address proof.
+C178,Ashok Jain,Hindi,Blocked,Salary,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C179,Geeta Jain,Marathi,Active,Salary,Customer previously asked why interest was not credited this month. Clarified the interest crediting cycle and confirmed it would reflect shortly.
+C180,Sanjay Chopra,Marathi,Blocked,NRI,Customer previously asked how to increase the ATM withdrawal limit. Explained the process to request a limit increase via net banking.
+C181,Jagdish Bhatt,Kannada,Active,Savings,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C182,Ajay Bose,Marathi,Expired,Fixed Deposit Linked,Customer previously asked how to dispute an unauthorized transaction. Logged a dispute request and shared the expected resolution timeline.
+C183,Zara Tiwari,Bengali,Blocked,Fixed Deposit Linked,Customer previously asked how to link Aadhaar with the bank account. Guided the customer through the Aadhaar linking process via net banking.
+C184,Shreya Jain,Hindi,Active,Fixed Deposit Linked,Customer previously asked how to dispute an unauthorized transaction. Logged a dispute request and shared the expected resolution timeline.
+C185,Pooja Qureshi,Telugu,Blocked,Current,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C186,Manoj Sharma,English,Active,NRI,Customer previously asked how to update the mailing address. Explained the address update process requiring ID and address proof.
+C187,Divya Dubey,Marathi,Inactive,Fixed Deposit Linked,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C188,Radha Kumar,Marathi,Active,Savings,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C189,Nikhil Sen,Tamil,Expired,Fixed Deposit Linked,Customer previously asked how to close a savings account. Explained the account closure process and documentation required.
+C190,Vikram Rawat,Telugu,Inactive,Savings,Customer previously asked how to close a savings account. Explained the account closure process and documentation required.
+C191,Anita Sheikh,Bengali,Blocked,Fixed Deposit Linked,Customer previously asked how to update the mailing address. Explained the address update process requiring ID and address proof.
+C192,Ashok Chawla,Bengali,Blocked,Fixed Deposit Linked,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C193,Siddharth Tiwari,Tamil,Blocked,NRI,Customer previously asked how to close a savings account. Explained the account closure process and documentation required.
+C194,Lata Chawla,Telugu,Expired,Salary,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C195,Salim Agarwal,Telugu,Active,Savings,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C196,Girish Das,Malayalam,Active,Fixed Deposit Linked,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C197,Anita Pillai,Telugu,Active,Current,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C198,Karan Pandey,Marathi,Active,NRI,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C199,Sneha Bose,Marathi,Active,Fixed Deposit Linked,Customer previously asked how to change the debit-card PIN. The PIN-change process was explained successfully.
+C200,Chitra Trivedi,Bengali,Active,Salary,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C201,Radha Sayyed,Marathi,Active,Fixed Deposit Linked,Customer previously asked how to update the mailing address. Explained the address update process requiring ID and address proof.
+C202,Aakash Kumar,Telugu,Active,NRI,Customer previously asked how to change the debit-card PIN. The PIN-change process was explained successfully.
+C203,Radha Shah,Marathi,Blocked,NRI,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C204,Indira Rathore,English,Inactive,Fixed Deposit Linked,Customer previously asked how to reset net banking password. Walked through the password reset process via registered email.
+C205,Priya Nair,Marathi,Active,NRI,Customer previously asked how to increase the ATM withdrawal limit. Explained the process to request a limit increase via net banking.
+C206,Vikram Chatterjee,Marathi,Active,NRI,Customer previously asked how to dispute an unauthorized transaction. Logged a dispute request and shared the expected resolution timeline.
+C207,Seema Chawla,Marathi,Active,NRI,Customer previously asked how to set up UPI with the debit card. Provided step-by-step guidance for linking the card to UPI.
+C208,Rahul Singh,English,Blocked,Savings,Customer previously asked how to activate a newly issued card. Guided the customer through the card activation process successfully.
+C209,Aakash Bansal,Hindi,Expired,Savings,Customer previously asked how to change the debit-card PIN. The PIN-change process was explained successfully.
+C210,Preeti Chopra,English,Blocked,Current,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C211,Imran Jain,Hindi,Active,Current,Customer previously asked how to close a savings account. Explained the account closure process and documentation required.
+C212,Harish Bhatia,Malayalam,Active,Fixed Deposit Linked,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C213,Vivek Ghosh,Hindi,Active,Salary,Customer previously asked how to reset net banking password. Walked through the password reset process via registered email.
+C214,Sunil Joshi,Telugu,Active,Current,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C215,Rajesh Sayyed,Punjabi,Expired,Fixed Deposit Linked,Customer previously asked why a recent transaction was declined. Advised the decline was due to insufficient balance; suggested checking account balance.
+C216,Prakash Rathore,Marathi,Blocked,Savings,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C217,Seema Saxena,Marathi,Expired,Savings,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C218,Ramesh Agarwal,Bengali,Blocked,NRI,Customer previously asked how to increase the ATM withdrawal limit. Explained the process to request a limit increase via net banking.
+C219,Aditya Bansal,Kannada,Blocked,Fixed Deposit Linked,Customer previously asked how to link Aadhaar with the bank account. Guided the customer through the Aadhaar linking process via net banking.
+C220,Zara Mishra,Punjabi,Active,Current,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C221,Kiran Tiwari,Telugu,Expired,Fixed Deposit Linked,Customer previously asked how to update the mailing address. Explained the address update process requiring ID and address proof.
+C222,Sunil Shah,English,Active,Salary,Customer previously asked how to increase the ATM withdrawal limit. Explained the process to request a limit increase via net banking.
+C223,Salim Bose,Malayalam,Expired,Salary,Customer previously asked how to set up UPI with the debit card. Provided step-by-step guidance for linking the card to UPI.
+C224,Gopal Anand,Kannada,Active,Fixed Deposit Linked,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C225,Rahul Mukherjee,Marathi,Active,Current,Customer previously asked how to link Aadhaar with the bank account. Guided the customer through the Aadhaar linking process via net banking.
+C226,Salim Tiwari,English,Active,Current,Customer previously asked how to check the current account balance via IVR. Explained the IVR steps to check balance using registered mobile number.
+C227,Preeti Ghosh,Punjabi,Active,Fixed Deposit Linked,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C228,Prakash Mishra,Gujarati,Active,NRI,Customer previously asked how to set up UPI with the debit card. Provided step-by-step guidance for linking the card to UPI.
+C229,Geeta Chatterjee,Telugu,Active,Current,Customer previously asked how to dispute an unauthorized transaction. Logged a dispute request and shared the expected resolution timeline.
+C230,Nisha Grover,Gujarati,Pending Activation,Current,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C231,Rekha Grover,Bengali,Active,Fixed Deposit Linked,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C232,Gopal Roy,Hindi,Expired,Salary,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C233,Ramesh Malhotra,Kannada,Active,Fixed Deposit Linked,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C234,Kiran Verma,English,Active,Current,Customer previously asked how to link Aadhaar with the bank account. Guided the customer through the Aadhaar linking process via net banking.
+C235,Kavya Saxena,Punjabi,Active,NRI,Customer previously asked how to close a savings account. Explained the account closure process and documentation required.
+C236,Seema Malhotra,English,Active,NRI,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C237,Karan Joshi,Bengali,Active,Savings,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C238,Ritu Sheikh,Punjabi,Inactive,Savings,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C239,Nisha Rawat,Marathi,Blocked,Fixed Deposit Linked,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C240,Aditya Trivedi,Bengali,Inactive,Salary,Customer previously asked how to reset net banking password. Walked through the password reset process via registered email.
+C241,Nikhil Ghosh,Punjabi,Blocked,Fixed Deposit Linked,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C242,Naveen Agarwal,Telugu,Active,Savings,Customer previously asked how to increase the ATM withdrawal limit. Explained the process to request a limit increase via net banking.
+C243,Girish Malhotra,Gujarati,Active,Savings,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C244,Ayesha Anand,Punjabi,Active,Savings,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C245,Ajay Sethi,Kannada,Blocked,NRI,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C246,Simran Chatterjee,Punjabi,Blocked,Current,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C247,Rohan Rathore,Telugu,Blocked,Salary,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C248,Divya Gupta,Tamil,Expired,Fixed Deposit Linked,Customer previously asked how to reset net banking password. Walked through the password reset process via registered email.
+C249,Ajay Tiwari,Hindi,Active,Salary,Customer previously asked how to check the current account balance via IVR. Explained the IVR steps to check balance using registered mobile number.
+C250,Mohan Yadav,Gujarati,Active,Savings,Customer previously asked how to update the mailing address. Explained the address update process requiring ID and address proof.
+C251,Meera Mishra,Malayalam,Blocked,Savings,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C252,Simran Khanna,Punjabi,Active,Savings,Customer previously asked how to set up UPI with the debit card. Provided step-by-step guidance for linking the card to UPI.
+C253,Chitra Verma,Tamil,Active,NRI,Customer previously asked how to set up UPI with the debit card. Provided step-by-step guidance for linking the card to UPI.
+C254,Neha Naik,Marathi,Blocked,NRI,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C255,Imran Mehta,Marathi,Active,Savings,Customer previously asked how to increase the ATM withdrawal limit. Explained the process to request a limit increase via net banking.
+C256,Vinod Pandey,Bengali,Active,NRI,Customer previously asked why interest was not credited this month. Clarified the interest crediting cycle and confirmed it would reflect shortly.
+C257,Arjun Dubey,Hindi,Active,Salary,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C258,Anusha Yadav,English,Blocked,Fixed Deposit Linked,Customer previously asked how to close a savings account. Explained the account closure process and documentation required.
+C259,Ganesh Gupta,Telugu,Active,Fixed Deposit Linked,Customer previously asked how to link Aadhaar with the bank account. Guided the customer through the Aadhaar linking process via net banking.
+C260,Yash Chawla,English,Active,Fixed Deposit Linked,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C261,Ajay Tiwari,Bengali,Active,Fixed Deposit Linked,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C262,Vivek Ghosh,Gujarati,Active,NRI,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C263,Aakash Khan,Hindi,Active,Savings,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C264,Ruksana Sethi,Kannada,Active,Salary,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C265,Nadia Singh,Telugu,Active,Current,Customer previously asked how to check the current account balance via IVR. Explained the IVR steps to check balance using registered mobile number.
+C266,Arvind Kulkarni,Gujarati,Blocked,Current,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C267,Kiran Bhatia,Marathi,Active,Fixed Deposit Linked,Customer previously asked how to set up UPI with the debit card. Provided step-by-step guidance for linking the card to UPI.
+C268,Ravi Roy,Kannada,Expired,Fixed Deposit Linked,Customer previously asked how to link Aadhaar with the bank account. Guided the customer through the Aadhaar linking process via net banking.
+C269,Ritu Tiwari,Gujarati,Active,Salary,Customer previously asked why interest was not credited this month. Clarified the interest crediting cycle and confirmed it would reflect shortly.
+C270,Aparna Trivedi,Bengali,Inactive,Current,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C271,Chitra Trivedi,Telugu,Inactive,NRI,Customer previously asked why a recent transaction was declined. Advised the decline was due to insufficient balance; suggested checking account balance.
+C272,Ashok Grover,Bengali,Blocked,NRI,Customer previously asked how to check the current account balance via IVR. Explained the IVR steps to check balance using registered mobile number.
+C273,Ritu Kumar,English,Active,Fixed Deposit Linked,Customer previously asked how to dispute an unauthorized transaction. Logged a dispute request and shared the expected resolution timeline.
+C274,Amit Sayyed,Bengali,Active,NRI,Customer previously asked how to change the debit-card PIN. The PIN-change process was explained successfully.
+C275,Manoj Pandey,Tamil,Active,Salary,Customer previously asked how to dispute an unauthorized transaction. Logged a dispute request and shared the expected resolution timeline.
+C276,Indira Anand,Marathi,Blocked,Salary,Customer previously asked why interest was not credited this month. Clarified the interest crediting cycle and confirmed it would reflect shortly.
+C277,Sunil Patel,Bengali,Inactive,Savings,Customer previously asked how to update the mailing address. Explained the address update process requiring ID and address proof.
+C278,Karan Mukherjee,Kannada,Pending Activation,Savings,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C279,Amit Chawla,Hindi,Active,Salary,Customer previously asked how to change the debit-card PIN. The PIN-change process was explained successfully.
+C280,Meera Patel,English,Active,Salary,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C281,Manoj Mukherjee,Gujarati,Active,Current,Customer previously asked how to increase the ATM withdrawal limit. Explained the process to request a limit increase via net banking.
+C282,Deepak Nair,Punjabi,Inactive,Fixed Deposit Linked,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C283,Ruksana Naik,Tamil,Active,Salary,Customer previously asked how to close a savings account. Explained the account closure process and documentation required.
+C284,Harish Jain,English,Inactive,NRI,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C285,Aparna Kapoor,Hindi,Active,Salary,Customer previously asked how to reset net banking password. Walked through the password reset process via registered email.
+C286,Rajesh Agarwal,Marathi,Blocked,NRI,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C287,Swati Trivedi,Bengali,Active,NRI,Customer previously asked how to reset net banking password. Walked through the password reset process via registered email.
+C288,Usha Bhatt,Kannada,Pending Activation,Salary,Customer previously asked how to change the debit-card PIN. The PIN-change process was explained successfully.
+C289,Tarun Das,English,Active,Savings,Customer previously asked how to update the mailing address. Explained the address update process requiring ID and address proof.
+C290,Ruksana Khan,Kannada,Expired,Current,Customer previously asked how to update the mailing address. Explained the address update process requiring ID and address proof.
+C291,Usha Sen,Telugu,Blocked,Current,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C292,Meera Ghosh,Bengali,Active,Salary,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C293,Pooja Roy,Malayalam,Blocked,Current,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C294,Sanjay Ansari,Gujarati,Inactive,Salary,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C295,Wasim Das,Tamil,Active,NRI,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C296,Seema Sheikh,Hindi,Active,Savings,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C297,Aakash Khanna,Marathi,Pending Activation,Fixed Deposit Linked,Customer previously asked how to activate a newly issued card. Guided the customer through the card activation process successfully.
+C298,Pooja Ansari,Marathi,Active,Fixed Deposit Linked,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C299,Farhan Desai,Kannada,Active,Salary,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C300,Simran Singh,English,Blocked,Fixed Deposit Linked,Customer previously asked how to dispute an unauthorized transaction. Logged a dispute request and shared the expected resolution timeline.
+C301,Jagdish Sen,Hindi,Blocked,NRI,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C302,Ganesh Rao,Tamil,Active,Savings,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C303,Ruksana Rao,Hindi,Active,Fixed Deposit Linked,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C304,Radha Dubey,Malayalam,Blocked,Fixed Deposit Linked,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C305,Devika Grover,Tamil,Inactive,Savings,Customer previously asked how to link Aadhaar with the bank account. Guided the customer through the Aadhaar linking process via net banking.
+C306,Jagdish Pandey,Kannada,Active,Salary,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C307,Yash Tiwari,Telugu,Inactive,Savings,Customer previously asked how to activate a newly issued card. Guided the customer through the card activation process successfully.
+C308,Aparna Bansal,Malayalam,Active,Salary,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C309,Nisha Sayyed,Bengali,Active,Current,Customer previously asked how to update the mailing address. Explained the address update process requiring ID and address proof.
+C310,Suresh Gupta,Malayalam,Active,Current,Customer previously asked how to reset net banking password. Walked through the password reset process via registered email.
+C311,Naveen Iyer,Gujarati,Active,Current,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C312,Vinod Bhatia,Tamil,Expired,Fixed Deposit Linked,Customer previously asked how to change the debit-card PIN. The PIN-change process was explained successfully.
+C313,Kiran Sayyed,Tamil,Pending Activation,Fixed Deposit Linked,Customer previously asked how to set up UPI with the debit card. Provided step-by-step guidance for linking the card to UPI.
+C314,Deepak Rao,English,Active,Salary,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C315,Devika Patel,English,Active,Savings,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C316,Ishita Chauhan,Hindi,Blocked,NRI,Customer previously asked how to close a savings account. Explained the account closure process and documentation required.
+C317,Ramesh Yadav,Punjabi,Active,Fixed Deposit Linked,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C318,Jagdish Verma,Gujarati,Active,Savings,Customer previously asked why a recent transaction was declined. Advised the decline was due to insufficient balance; suggested checking account balance.
+C319,Nadia Sayyed,Marathi,Active,Savings,Customer previously asked how to link Aadhaar with the bank account. Guided the customer through the Aadhaar linking process via net banking.
+C320,Yash Iyer,Hindi,Active,Current,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C321,Sanjay Das,Punjabi,Blocked,Fixed Deposit Linked,Customer previously asked how to dispute an unauthorized transaction. Logged a dispute request and shared the expected resolution timeline.
+C322,Sunil Kulkarni,Gujarati,Active,Fixed Deposit Linked,Customer previously asked how to update the mailing address. Explained the address update process requiring ID and address proof.
+C323,Tanvi Reddy,Hindi,Inactive,Fixed Deposit Linked,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C324,Tanvi Tiwari,Telugu,Active,NRI,Customer previously asked how to check the current account balance via IVR. Explained the IVR steps to check balance using registered mobile number.
+C325,Ishita Arora,Hindi,Active,Salary,Customer previously asked how to set up UPI with the debit card. Provided step-by-step guidance for linking the card to UPI.
+C326,Padma Pillai,Bengali,Active,Savings,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C327,Tanvi Reddy,Malayalam,Expired,Fixed Deposit Linked,Customer previously asked why a recent transaction was declined. Advised the decline was due to insufficient balance; suggested checking account balance.
+C328,Devika Rawat,Gujarati,Active,Savings,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C329,Usha Jain,Marathi,Inactive,Savings,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C330,Gopal Ghosh,Malayalam,Active,Fixed Deposit Linked,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C331,Ritu Jain,Bengali,Active,Savings,Customer previously asked how to activate a newly issued card. Guided the customer through the card activation process successfully.
+C332,Bhavna Desai,Hindi,Expired,Fixed Deposit Linked,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C333,Nikhil Sayyed,Gujarati,Pending Activation,Fixed Deposit Linked,Customer previously asked how to update the mailing address. Explained the address update process requiring ID and address proof.
+C334,Bhavna Sharma,Punjabi,Inactive,Salary,Customer previously asked how to change the debit-card PIN. The PIN-change process was explained successfully.
+C335,Neha Das,Kannada,Inactive,Salary,Customer previously asked how to change the debit-card PIN. The PIN-change process was explained successfully.
+C336,Neha Pillai,Punjabi,Blocked,Savings,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C337,Priya Nair,Gujarati,Active,NRI,Customer previously asked how to close a savings account. Explained the account closure process and documentation required.
+C338,Seema Kapoor,Malayalam,Active,Salary,Customer previously asked how to reset net banking password. Walked through the password reset process via registered email.
+C339,Gopal Nair,English,Active,Fixed Deposit Linked,Customer previously asked why a recent transaction was declined. Advised the decline was due to insufficient balance; suggested checking account balance.
+C340,Rahul Das,Bengali,Blocked,NRI,Customer previously asked how to update the mailing address. Explained the address update process requiring ID and address proof.
+C341,Yash Pandey,Kannada,Active,Fixed Deposit Linked,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C342,Prakash Mishra,Hindi,Active,Fixed Deposit Linked,Customer previously asked how to link Aadhaar with the bank account. Guided the customer through the Aadhaar linking process via net banking.
+C343,Kritika Jain,Kannada,Active,NRI,Customer previously asked how to update the mailing address. Explained the address update process requiring ID and address proof.
+C344,Sneha Saxena,Telugu,Active,Current,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C345,Harish Roy,Malayalam,Active,NRI,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C346,Deepak Menon,Marathi,Active,Current,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C347,Bhavna Khan,Malayalam,Active,Savings,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C348,Suresh Dubey,Hindi,Inactive,Fixed Deposit Linked,Customer previously asked why the debit card was declined online. Found that online transactions were disabled and enabled them on request.
+C349,Chitra Joshi,Marathi,Active,NRI,Customer previously asked how to change the debit-card PIN. The PIN-change process was explained successfully.
+C350,Madhuri Kapoor,Punjabi,Active,Salary,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C351,Tanvi Sayyed,Hindi,Active,Fixed Deposit Linked,Customer previously asked how to check the current account balance via IVR. Explained the IVR steps to check balance using registered mobile number.
+C352,Kritika Nair,Marathi,Inactive,Salary,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C353,Vinod Bhatia,Tamil,Active,Savings,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C354,Fatima Chopra,Malayalam,Active,Current,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C355,Kavya Pillai,Kannada,Active,Fixed Deposit Linked,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C356,Divya Malhotra,Bengali,Active,Fixed Deposit Linked,Customer previously asked how to reset net banking password. Walked through the password reset process via registered email.
+C357,Ayesha Khanna,Punjabi,Blocked,Fixed Deposit Linked,Customer previously asked how to dispute an unauthorized transaction. Logged a dispute request and shared the expected resolution timeline.
+C358,Ashok Pillai,Bengali,Active,NRI,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C359,Kiran Naik,English,Active,Savings,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C360,Zara Tiwari,English,Active,Salary,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C361,Pooja Deshpande,Punjabi,Active,NRI,Customer previously asked how to reset net banking password. Walked through the password reset process via registered email.
+C362,Siddharth Ansari,English,Active,Fixed Deposit Linked,Customer previously asked how to enable international transactions on the card. Walked through enabling international usage via the mobile app.
+C363,Madhuri Kulkarni,Bengali,Active,Savings,Customer previously asked how to close a savings account. Explained the account closure process and documentation required.
+C364,Kavya Sheikh,Malayalam,Pending Activation,Savings,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C365,Deepak Verma,Telugu,Blocked,NRI,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C366,Aditya Deshpande,Tamil,Active,Salary,Customer previously asked how to check the current account balance via IVR. Explained the IVR steps to check balance using registered mobile number.
+C367,Ganesh Bhatia,Malayalam,Blocked,Savings,Customer previously asked how to dispute an unauthorized transaction. Logged a dispute request and shared the expected resolution timeline.
+C368,Karan Shah,Hindi,Active,NRI,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C369,Harish Arora,Punjabi,Inactive,Salary,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C370,Mahesh Jain,Tamil,Inactive,Salary,Customer previously asked how to check the current account balance via IVR. Explained the IVR steps to check balance using registered mobile number.
+C371,Sanjay Kulkarni,Hindi,Active,NRI,Customer previously asked how to dispute an unauthorized transaction. Logged a dispute request and shared the expected resolution timeline.
+C372,Sanjay Jain,Gujarati,Active,NRI,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C373,Ramesh Sharma,Malayalam,Active,Current,Customer previously asked how to dispute an unauthorized transaction. Logged a dispute request and shared the expected resolution timeline.
+C374,Salim Chopra,Telugu,Pending Activation,Current,Customer previously asked how to block a lost debit card. Card was blocked immediately upon request and a replacement was initiated.
+C375,Sunita Sayyed,Hindi,Active,Fixed Deposit Linked,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C376,Arjun Jain,Malayalam,Inactive,Fixed Deposit Linked,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C377,Gopal Trivedi,Tamil,Active,Fixed Deposit Linked,Customer previously asked how to increase the ATM withdrawal limit. Explained the process to request a limit increase via net banking.
+C378,Yash Verma,Marathi,Active,Current,Customer previously asked how to close a savings account. Explained the account closure process and documentation required.
+C379,Jagdish Roy,Bengali,Active,Current,Customer previously asked why an SMS alert for a transaction was not received. Checked and updated the mobile number linked for SMS alerts.
+C380,Imran Khan,Telugu,Active,Fixed Deposit Linked,Customer previously asked how to close a savings account. Explained the account closure process and documentation required.
+C381,Zara Bhatia,Kannada,Expired,Fixed Deposit Linked,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C382,Ishita Kapoor,Telugu,Expired,Current,Customer previously asked how to set up UPI with the debit card. Provided step-by-step guidance for linking the card to UPI.
+C383,Vikram Bansal,Bengali,Inactive,Fixed Deposit Linked,Customer previously asked how to update the registered mobile number. Guided through the branch/app process for mobile number update.
+C384,Aditya Sayyed,Hindi,Active,Current,Customer previously asked how to set up UPI with the debit card. Provided step-by-step guidance for linking the card to UPI.
+C385,Ayesha Yadav,Tamil,Expired,Savings,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C386,Ayesha Mehta,English,Active,NRI,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C387,Padma Mukherjee,Marathi,Pending Activation,Salary,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C388,Priya Patel,Hindi,Expired,Salary,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C389,Anita Verma,Kannada,Inactive,NRI,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
+C390,Imran Tiwari,Punjabi,Active,Savings,Customer previously asked how to change the debit-card PIN. The PIN-change process was explained successfully.
+C391,Harish Bose,Tamil,Active,Fixed Deposit Linked,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C392,Nikhil Rao,Kannada,Active,Savings,Customer previously asked why a recent transaction was declined. Advised the decline was due to insufficient balance; suggested checking account balance.
+C393,Girish Pandey,Punjabi,Active,Savings,Customer previously asked how to link Aadhaar with the bank account. Guided the customer through the Aadhaar linking process via net banking.
+C394,Gopal Rathore,English,Blocked,Fixed Deposit Linked,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C395,Manoj Roy,Marathi,Active,Salary,Customer previously asked status of a recent card replacement request. Confirmed the replacement card is in transit and shared expected delivery date.
+C396,Chitra Pandey,Tamil,Blocked,Savings,Customer previously asked how to request a cheque book. Processed a cheque book request and confirmed delivery timeline.
+C397,Ramesh Iyer,Gujarati,Active,Fixed Deposit Linked,Customer previously asked why interest was not credited this month. Clarified the interest crediting cycle and confirmed it would reflect shortly.
+C398,Suresh Trivedi,Bengali,Active,NRI,Customer previously asked how to activate a newly issued card. Guided the customer through the card activation process successfully.
+C399,Harish Grover,English,Active,Savings,Customer previously asked how to activate a newly issued card. Guided the customer through the card activation process successfully.
+C400,Girish Arora,Hindi,Expired,Salary,Customer previously asked why the card is not working at POS terminals. Identified the card status as inactive and advised reactivation steps.
