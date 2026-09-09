@@ -1,0 +1,72 @@
+# 1) LLMs 
+# 2) Prompt Templates
+# 3) Chains
+# 4) Agents & Tools
+# 5) Memory
+# 6) Document Loaders
+# 7) Vector Stores
+# 8) API Integration
+# 9) Evaluation / Debugging with LangSmith
+# -----------------------------------------------
+
+1) Fundamentals of LangChain
+What is LangChain, and how it helps in LLM-based applications
+Core components: Chains, Agents, Memory, Tools
+Installation and setup
+
+2) Working with Language Models
+Connecting LangChain with OpenAI, Hugging Face, Cohere, Anthropic, or local LLMs (like Llama, GPT-J)
+Customizing prompt templates
+Streaming responses
+
+3) Prompt Engineering
+Using Prompt Templates effectively
+Dynamic input variables
+Few-shot vs. zero-shot prompting
+
+4. Chains
+Simple Chains: Sequential execution of LLM calls
+LLMChain: Using LLMs as part of a processing pipeline
+SequentialChain: Running multiple chains in sequence
+RouterChain: Directing queries dynamically
+
+5) Agents & Tools
+Understanding Agents: How they decide what to do next
+Using built-in tools (like Google Search, Python REPL, SerpAPI)
+Creating Custom Tools
+Implementing Agent Executors and choosing the right Agent type (Zero-shot, ReAct, Self-Ask)
+
+6) Memory (Stateful Applications)
+Storing context across interactions
+Types of Memory:
+ConversationBufferMemory (basic)
+ConversationSummaryMemory (summarized)
+Vector-based Memory (for RAG applications)
+
+7) Retrieval-Augmented Generation (RAG)
+Vector Databases (Pinecone, FAISS, Weaviate, ChromaDB, Milvus)
+Embedding Models (OpenAI, Hugging Face, Cohere)
+Building Custom Knowledge Bases
+Implementing document retrieval with Retrievers and Indexing
+
+8) Working with APIs & External Data Sources
+Integrating APIs (REST, GraphQL, web scraping)
+Connecting with external databases (PostgreSQL, MongoDB, Firebase, SQL)
+Using LangChain with cloud storage (AWS S3, Google Drive)
+
+9) Evaluation & Debugging
+LangSmith for debugging
+Testing different prompt outputs
+Benchmarking LLM performance
+
+10) Advanced Techniques
+Fine-tuning models
+Function Calling with OpenAI API
+Handling multi-turn conversations effectively
+Using LangGraph for complex workflows
+
+11) Deployment & Scalability
+Deploying LangChain apps using FastAPI, Flask, Streamlit, Next.js
+Running LLMs locally vs. cloud-based hosting
+Optimizing API usage to reduce costs
+
