@@ -1,0 +1,35 @@
+symptom_analysis_task:
+  description: >
+    Analyze the following symptoms provided by the user:
+
+    {symptoms}
+
+    Identify up to 3 possible conditions that could be associated
+    with these symptoms.
+
+    This is an informational analysis and not a medical diagnosis.
+
+  expected_output: >
+    A list containing up to 3 possible conditions with a short
+    explanation for each condition.
+
+  agent: symptom_analyst
+
+
+care_guidance_task:
+  description: >
+    Review the symptom analysis produced by the Symptom Analyst.
+
+    Based on that analysis, provide general guidance about
+    appropriate next steps.
+
+    Classify the suggested urgency as one of:
+    ROUTINE, SOON, or URGENT.
+
+    Do not prescribe medication.
+
+  expected_output: >
+    General patient guidance containing the urgency level,
+    recommended next step, and a short explanation.
+
+  agent: care_advisor
